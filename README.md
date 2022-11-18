@@ -1,1 +1,3 @@
 # PAS_Challenge_SDA
+
+Créer un Chabot qui permet de répondre aux besoins des étudiants en fournissant des réponses par rapport à certaines questions liées à l’inscription, au choix des filières ...
